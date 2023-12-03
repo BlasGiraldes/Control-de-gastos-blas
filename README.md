@@ -1,8 +1,12 @@
-# React + Vite
+PLANIFICADOR DE GASTOS creado con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://controldegastosblas.netlify.app/
 
-Currently, two official plugins are available:
+![image](https://github.com/BlasGiraldes/citas-react/assets/81719352/b06bc983-7557-4214-8310-601c789869fc)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/BlasGiraldes/citas-react/assets/81719352/1c9f01f0-b8e7-47a0-840a-196b1d62b9ff)
+
+![image](https://github.com/BlasGiraldes/citas-react/assets/81719352/39e41776-34d4-43b7-b547-a6f0599723e2)
+
+![image](https://github.com/BlasGiraldes/citas-react/assets/81719352/74fa36cb-8629-4032-b14b-2f16edf489d2)
+
